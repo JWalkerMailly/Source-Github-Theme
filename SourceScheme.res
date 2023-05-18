@@ -485,8 +485,8 @@ Scheme
 			{
 				"name"		"Source Code Pro" [$WINDOWS]
 				"name"		"Source Code Pro" [!$WINDOWS]
-				"tall"		"12" [$WINDOWS]
-				"tall"		"12" [!$WINDOWS]
+				"tall"		"13" [$WINDOWS]
+				"tall"		"13" [!$WINDOWS]
 				"weight"	"500"
 				"antialias" "1"
 			}
