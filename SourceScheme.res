@@ -74,7 +74,7 @@ Scheme
 
 		// Richtext entries use same styling as text entries.
 		RichText.TextColor                               "White"
-		RichText.BgColor                                 "13 17 23 255"
+		RichText.BgColor                                 "20 24 30 255"
 		RichText.SelectedTextColor                       "White"
 		RichText.SelectedBgColor                         "30 66 115 255"
 
@@ -95,11 +95,11 @@ Scheme
 		SectionedListPanel.DividerColor                  "0 0 0 0"
 		SectionedListPanel.TextColor                     "196 204 212 255"
 		SectionedListPanel.BrightTextColor               "196 204 212 255"
-		SectionedListPanel.BgColor                       "13 17 23 255"
+		SectionedListPanel.BgColor                       "20 24 30 255"
 		SectionedListPanel.SelectedTextColor             "White"
-		SectionedListPanel.SelectedBgColor               "13 17 23 255"
+		SectionedListPanel.SelectedBgColor               "20 24 30 255"
 		SectionedListPanel.OutOfFocusSelectedTextColor   "White"
-		SectionedListPanel.OutOfFocusSelectedBgColor     "13 17 23 255"
+		SectionedListPanel.OutOfFocusSelectedBgColor     "20 24 30 255"
 
 		// Property sheet tabs.
 		PropertySheet.TextColor                          "107 114 125 255"
@@ -111,11 +111,11 @@ Scheme
 		// File browser list.
 		ListPanel.TextColor                              "196 204 212 255"
 		ListPanel.TextBgColor                            "0 0 0 0"
-		ListPanel.BgColor                                "13 17 23 255"
+		ListPanel.BgColor                                "20 24 30 255"
 		ListPanel.SelectedTextColor                      "White"
-		ListPanel.SelectedBgColor                        "13 17 23 255"
+		ListPanel.SelectedBgColor                        "20 24 30 255"
 		ListPanel.OutOfFocusSelectedTextColor            "White"
-		ListPanel.SelectedOutOfFocusBgColor              "13 17 23 255"
+		ListPanel.SelectedOutOfFocusBgColor              "20 24 30 255"
 		ListPanel.EmptyListInfoTextColor                 "107 114 125 255"
 
 		// Slider styling.
@@ -127,10 +127,10 @@ Scheme
 
 		// Text inputs.
 		TextEntry.TextColor                              "White"
-		TextEntry.BgColor                                "13 17 23 255"
+		TextEntry.BgColor                                "20 24 30 255"
 		TextEntry.CursorColor                            "229 236 242 255"
 		TextEntry.DisabledTextColor                      "107 114 125 255"
-		TextEntry.DisabledBgColor                        "13 17 23 255"
+		TextEntry.DisabledBgColor                        "20 24 30 255"
 		TextEntry.SelectedTextColor                      "White"
 		TextEntry.SelectedBgColor                        "30 66 115 255"
 		TextEntry.OutOfFocusSelectedBgColor	             "30 66 115 255"
@@ -149,7 +149,7 @@ Scheme
 		Frame.ClientInsetX                               8
 		Frame.ClientInsetY                               6
 		Frame.BgColor                                    "29 33 39 255"
-		Frame.OutOfFocusBgColor                          "13 17 23 255"
+		Frame.OutOfFocusBgColor                          "20 24 30 255"
 		Frame.FocusTransitionEffectTime                  "0.15"
 		Frame.TransitionEffectTime                       "0.15"
 		Frame.AutoSnapRange                              "0"
@@ -179,10 +179,10 @@ Scheme
 
 		// Progress bar.
 		ProgressBar.FgColor                              "139 113 247 255"
-		ProgressBar.BgColor                              "13 17 23 255"
+		ProgressBar.BgColor                              "20 24 30 255"
 
 		// Rare/unused components.
-		TreeView.BgColor                                 "13 17 23 255"
+		TreeView.BgColor                                 "20 24 30 255"
 		ToggleButton.SelectedTextColor                   "White"
 		WizardSubPanel.BgColor                           "0 0 0 0"
 		GraphPanel.FgColor                               "White"
@@ -190,7 +190,7 @@ Scheme
 
 		// Dropdown menu.
 		Menu.TextColor                                   "107 114 125 255"
-		Menu.BgColor                                     "13 17 23 255"
+		Menu.BgColor                                     "20 24 30 255"
 		Menu.ArmedTextColor                              "225 232 238 255"
 		Menu.ArmedBgColor                                "0 0 0 0"
 		Menu.TextInset                                   "6"
