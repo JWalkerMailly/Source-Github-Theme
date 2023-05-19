@@ -14,7 +14,7 @@ https://github.com/JWalkerMailly/Derma-Github-Theme
 GarrysMod\garrysmod\resource
 ```
 - Make a backup of your *SourceScheme.res* file.
-- Drop files in directory.
+- Drop files in directory (SourceScheme.res and both fonts).
 - Enjoy.
 
 ## Screenshots
