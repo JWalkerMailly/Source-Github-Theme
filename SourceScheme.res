@@ -271,8 +271,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"     "1"
@@ -282,8 +282,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Bold" [$WINDOWS]
-				"name"		"Mona-Sans Bold" [!$WINDOWS]
+				"name"		"Mona-Sans" [$WINDOWS]
+				"name"		"Mona-Sans" [!$WINDOWS]
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"     "1"
@@ -293,8 +293,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"16"
 				"weight"	"500"
 				"underline" "1"
@@ -305,8 +305,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"12" [$WINDOWS]
 				"tall"		"14" [$OSX]
 				"tall"		"16" [$LINUX]
@@ -318,8 +318,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"13"
 				"weight"	"300"
 				"dropshadow" "1"
@@ -330,8 +330,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"12"
 				"weight"	"300"
 				"antialias"     "1"
@@ -342,8 +342,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Mona-Sans Medium" [$WINDOWS]
-				"name"		"Mona-Sans Medium" [!$WINDOWS]
+				"name"		"Mona-Sans Regular" [$WINDOWS]
+				"name"		"Mona-Sans Regular" [!$WINDOWS]
 				"tall"		"18"
 				"weight"	"300"
 				"antialias"     "1"
@@ -353,15 +353,15 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Mona-Sans Bold" [$WINDOWS]
-				"name"		"Mona-Sans Bold" [!$WINDOWS]
+				"name"		"Mona-Sans" [$WINDOWS]
+				"name"		"Mona-Sans" [!$WINDOWS]
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"     "1"
 			}
 			"1"	[$X360]
 			{
-				"name"		"Mona-Sans Bold"
+				"name"		"Mona-Sans"
 				"tall"		"24"
 				"weight"	"500"
 				"outline"	"1"
@@ -372,7 +372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Mona-Sans Bold"
+				"name"			"Mona-Sans"
 				"tall"			"20"
 				"tall_hidef"	"28"
 				"weight"		"500"
@@ -384,7 +384,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Mona-Sans Bold"
+				"name"			"Mona-Sans"
 				"tall"			"20"
 				"tall_hidef"	"28"
 				"weight"		"500"
