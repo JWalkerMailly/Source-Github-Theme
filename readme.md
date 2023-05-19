@@ -1,7 +1,7 @@
 # Source - Github Theme
 
 ## Disclaimer
-This does not change the appearance of GMod's main menus. For that, see this project:\
+This does not change the appearance of GMod's main menus. For that, install this project before this one:\
 https://github.com/JWalkerMailly/Gmod-Github-Theme
 
 For GMod's Derma components, see this project:\
