@@ -1252,7 +1252,7 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"
 		"3"		"resource/marlett.ttf"
-		"4"     "resource/SourceCodePro-VariableFont_wght.ttf"
-		"4"     "resource/Mona-Sans.ttf"
+		"4"     "resource/fonts/SourceCodePro-VariableFont_wght.ttf"
+		"4"     "resource/fonts/Mona-Sans.ttf"
 	}
 }
