@@ -78,16 +78,16 @@ Scheme
 		RichText.SelectedTextColor                       "White"
 		RichText.SelectedBgColor                         "30 66 115 255"
 
-		// No scrollbars, this is 2023, use your wheel.
-		ScrollBar.Wide                                   0
+		// Scroll bars.
+		ScrollBar.Wide                                   10
 		ScrollBarButton.FgColor                          "0 0 0 0"
 		ScrollBarButton.BgColor                          "0 0 0 0"
 		ScrollBarButton.ArmedFgColor                     "0 0 0 0"
 		ScrollBarButton.ArmedBgColor                     "0 0 0 0"
 		ScrollBarButton.DepressedFgColor                 "0 0 0 0"
 		ScrollBarButton.DepressedBgColor                 "0 0 0 0"
-		ScrollBarSlider.FgColor                          "0 0 0 0"
-		ScrollBarSlider.BgColor                          "0 0 0 0"
+		ScrollBarSlider.FgColor                          "82 84 86 255"
+		ScrollBarSlider.BgColor                          "20 24 30 255"
 
 		// Property sheet as seen in key binds.
 		SectionedListPanel.HeaderTextColor               "88 166 255 255"
@@ -1064,81 +1064,16 @@ Scheme
 		ScrollBarButtonBorder
 		{
 			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
 		}
 
 		ScrollBarButtonDepressedBorder
 		{
 			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
+		}
 
-			Right
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.DarkSolid"
-					"offset" "0 0"
-				}
-			}
+		ScrollBarSliderBorder
+		{
+			"inset" "0 0 0 0"
 		}
 
 		TabBorder
